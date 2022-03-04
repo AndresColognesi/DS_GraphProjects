@@ -1,2 +1,7 @@
-# DS_GraphProjects
-Repository containing some examples and activities for Graph manipulation based on the "Applied Social Network Analysis in Python" course from University of Michigan (fifth and last course of the Applied Data Science with Python specialization).
+# Applied Social Network Analysis in Python - University of Michigan
+
+This repository contains some examples and the activities developed for the Coursera course "Applied Social Network Analysis in Python" from University of Michigan. Aside from the `/Examples` folder (that contain some example codes), each folder of this repo contains a project developed for the course.
+
+The purpose of this repo is to organize the deliverables and store them for later access.
+
+**WARNING:** If you are enrolled on this same course, do **NOT** send these projects as your own!
